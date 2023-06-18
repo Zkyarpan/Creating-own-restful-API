@@ -1,0 +1,59 @@
+[
+  {
+    "name": "iphone6",
+    "price": 30,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone7",
+    "price": 40,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone8",
+    "price": 50,
+    "company": "apple"
+  },
+  {
+    "name": "iphone9",
+    "price": 80,
+    "company": "apple"
+  },
+  {
+    "name": "iphone10",
+    "price": 100,
+    "company": "apple"
+  },
+  {
+    "name": "iphone11",
+    "price": 120,
+    "company": "apple"
+  },
+  {
+    "name": "watch",
+    "price": 130,
+    "company": "apple"
+  },
+  {
+    "name": "watch10",
+    "price": 150,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung S22 ultra",
+    "price": 300,
+    "company": "samsung"
+  },
+  {
+    "name": "acer predator triton",
+    "price": 150,
+    "company": "acer"
+  },
+  {
+    "name": "mi20",
+    "price": 50,
+    "company": "mi"
+  }
+]
